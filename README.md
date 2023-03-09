@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Koncek123 (That's my username. But my name is Adi Muhamad Fajar)
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning frontend developer
+- 🌱 I’m currently learning website development
+-     I'm study at Padang State Polytechnic
+-     My major is Diploma 3 Informatic Manajement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
